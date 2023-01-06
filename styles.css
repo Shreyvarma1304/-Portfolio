@@ -1,0 +1,41 @@
+body
+{
+    background: url('images/bg.jpg');
+    background-size: cover;
+    font-family: Poppins;
+    
+}
+
+h1{
+    color : white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 200px;
+}
+.social
+{
+    margin-left: 530px;
+}
+.myhome
+{
+    text-decoration: none;
+    color: white;
+    padding:20px;
+
+}
+.id
+{
+    margin-top: 40px;
+    margin-left: 60%;
+}
+span
+{
+    color:white;
+    font-size: 20px;
+    font-weight:bold;
+}
+#web
+{
+    margin-left: 43%;
+
+}
